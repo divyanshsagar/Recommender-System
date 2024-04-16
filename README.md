@@ -9,7 +9,7 @@ To summarize:
 
 Overall, it's a straightforward approach to recommending movies based on user ratings and similarities between movies.
 
-# Let's illustrate how correlation between movies is calculated using a simplified example.
+# Sure, let's illustrate how correlation between movies is calculated using a simplified example.
 
 Let's say we have a small subset of our movie rating dataset:
 

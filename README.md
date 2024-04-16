@@ -31,12 +31,12 @@ Now, let's calculate the correlation between Movie A and Movie B:
    - We identify the users who have rated both Movie A and Movie B. In this case, it's users 1, 2, and 5.
 
 2. **Step 2: Calculate Mean Ratings**:
-   - We calculate the mean ratings for each movie. For Movie A, the mean rating is (5 + 3 + 4 + 2) / 4 = 3.5. For Movie B, the mean rating is (4 + 2 + 3) / 3 = 3.
+   - We calculate the mean ratings for each movie. For Movie A, the mean rating is (5 + 3 + 2) / 4 = 2.5. For Movie B, the mean rating is (4 + 2 + 3) / 3 = 3.
 
 3. **Step 3: Calculate Deviations from Mean**:
    - We calculate the deviation of each user's rating from the mean rating for both movies.
    - For example, for User 1:
-     - Deviation for Movie A: 5 - 3.5 = 1.5
+     - Deviation for Movie A: 5 - 2.5 = 2.5
      - Deviation for Movie B: 4 - 3 = 1
 
 4. **Step 4: Calculate Correlation**:
